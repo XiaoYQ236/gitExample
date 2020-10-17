@@ -1,2 +1,3 @@
+role, NetID, FamilyName, GivenName
 boss, yxiao85, Xiao, Yiqun
 employee,hkang98,Kang,Hangyu
